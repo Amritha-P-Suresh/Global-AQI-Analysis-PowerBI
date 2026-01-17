@@ -44,6 +44,21 @@ To present global air quality data in a clear and interactive format, allowing u
 
 - Clear visualization of global air quality distribution
 
+## 📸 Dashboard Preview
+
+### Overview
+![Overview Dashboard](overview_dashboard.png)
+
+### Country-wise AQI Comparison
+![AQI Comparison](country_comparison.png)
+
+### Pollutant-wise Analysis
+![Pollutant Analysis](pollutant_analysis.png)
+
+### Drill-through Page
+![Drill-through](drillthrough_details.png)
+
+
 🚀 Conclusion
 
 This project demonstrates the ability to analyze environmental data and build insightful dashboards using Power BI. It reflects strong skills in data preparation, pollutant-level analysis, and presenting complex information in a clear and user-friendly manner.
